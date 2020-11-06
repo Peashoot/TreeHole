@@ -1,31 +1,42 @@
 ---
 title: "My First Post"
 date: 2020-10-16T15:07:43+08:00
+description: "This is a description of markdown file"
+image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
 draft: false
 tags: ["hugo"]
 categories: ["杂技浅尝"]
 ---
 
 `单行代码段`
-```
+
+``` csharp
 Console.Writeline("多行代码段");
 ```
 
-
 一级标题（等号）
+
 =
+
 二级标题（减号）
+
 -
 正常
 **加粗**
 *倾斜*
 ***粗体倾斜***
 ~~删除线~~
+
 # 这是一级标题
+
 ## 这是二级标题
+
 ### 这是三级标题
+
 #### 这是四级标题
+
 ##### 这是五级标题
+
 ###### 这是六级标题
 
 >这是引用的内容
@@ -35,7 +46,7 @@ Console.Writeline("多行代码段");
 分割线
 - --
 分割线
-- ---
+- --
 分割线
 ***
 分割线
@@ -139,7 +150,7 @@ cond(no)->op
 <font color=#0ff size=3>color=#0ff</font>
 <font color=gray size=4>color=gray</font>
 
-$\sqrt{x^{2}}$
+$\sin a$
 
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 \*\* 正常显示星号 \*\*
