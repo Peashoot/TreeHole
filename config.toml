@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://www.peashoot.xyz/"
-title = "Hugo 主题 MemE"
+title = "生旦净末“丑”🤡"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -25,7 +25,7 @@ pluralizeListTitles = false
 summaryLength = 42
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
-enableEmoji = false
+enableEmoji = true
 
 # 脚注的返回链接中的文本
 footnoteReturnLinkContents = "↩"
@@ -92,15 +92,15 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "一言不合"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "110632800@qq.com"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://www.peashoot.xyz/"
     # 推特
     twitter = "reuixiy"
 
@@ -214,10 +214,10 @@ uglyURLs = false
     [[menu.main]]
         weight = 7
         identifier = "lang-switcher"
-    # [[menu.main]]
-    #     weight = 8
-    #     identifier = "search"
-    #     post = "search"
+    [[menu.main]]
+        weight = 8
+        identifier = "search"
+        post = "search"
 
 
 
@@ -328,7 +328,7 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2020-10-24T11:11:11+08:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
